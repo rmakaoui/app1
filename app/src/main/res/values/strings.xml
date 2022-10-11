@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">app1</string>
+    <string name="nom">Nom :</string>
+    <string name="prenom">Prenom :</string>
+    <string name="telephone">Telephone :</string>
+    <string name="envoyer">ENVOYER</string>
+    <array name="ville">
+        <item>El jadida</item>
+        <item>Casablanca</item>
+        <item>Marakkesh</item>
+    </array>
+</resources>
